@@ -16,7 +16,7 @@ function addComment(text) {
     }
 }
 
-export function edditComment(id, text) {
+export function editComment(id, text) {
     return {
         type: EDIT_COMMENT,
         id,
