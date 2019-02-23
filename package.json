@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "uuid": "^3.3.2"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
   }
 }
